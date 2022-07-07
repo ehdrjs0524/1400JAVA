@@ -74,37 +74,39 @@ public class C02BasicOutputMethod {
 		//3		서길동	40		울산
 		//4		동길동	50		김해
 		
-		System.out.printf("No	이름		나이		주소\n");
-		System.out.printf("%d	%s		%d		%s\n",1,"홍길동",20,"대구");
-		System.out.printf("%d	%s		%d		%s\n",2,"남길동",30,"서울");
-		System.out.printf("%d	%s		%d		%s\n",3,"서길동",40,"울산");
-		System.out.printf("%d	%s		%d		%s\n",4,"동길동",50,"김해");
+//		System.out.printf("No	이름		나이		주소\n");
+//		System.out.printf("%d	%s		%d		%s\n",1,"홍길동",20,"대구");
+//		System.out.printf("%d	%s		%d		%s\n",2,"남길동",30,"서울");
+//		System.out.printf("%d	%s		%d		%s\n",3,"서길동",40,"울산");
+//		System.out.printf("%d	%s		%d		%s\n",4,"동길동",50,"김해");
+//		
+//		
+//		//문제
+//		//Code		Title		Publisher	Price
+//		//1010		DoItJava	00미디어		29000
+//		//2020		윤성우C		오렌지미디어	25000
+//		System.out.printf("Code		Title		Publisher	Price\n");
+//		System.out.printf("%d		%s	%s		%d\n",1010,"DoItJava","00미디어",29000);
+//		System.out.printf("%d		%s		%s	%d\n",2020,"윤성우C","오렌지미디어",25000);
+//		
+//		//문제
+//		//   *
+//		//  ***
+//		// *****
+//		//*******
+//		// *****
+//		//  ***
+//		//   *
+//		
+//		System.out.println("   *");
+//		System.out.println("  ***");
+//		System.out.println(" *****");
+//		System.out.println("*******");
+//		System.out.println(" *****");
+//		System.out.println("  ***");
+//		System.out.println("   *");
+//		
 		
-		
-		//문제
-		//Code		Title		Publisher	Price
-		//1010		DoItJava	00미디어		29000
-		//2020		윤성우C		오렌지미디어	25000
-		System.out.printf("Code		Title		Publisher	Price\n");
-		System.out.printf("%d		%s	%s		%d\n",1010,"DoItJava","00미디어",29000);
-		System.out.printf("%d		%s		%s	%d\n",2020,"윤성우C","오렌지미디어",25000);
-		
-		//문제
-		//   *
-		//  ***
-		// *****
-		//*******
-		// *****
-		//  ***
-		//   *
-		
-		System.out.println("   *");
-		System.out.println("  ***");
-		System.out.println(" *****");
-		System.out.println("*******");
-		System.out.println(" *****");
-		System.out.println("  ***");
-		System.out.println("   *");
 		
 		
 		
